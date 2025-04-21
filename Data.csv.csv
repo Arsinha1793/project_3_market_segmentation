@@ -1,0 +1,501 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Tamil Nadu,Ernakulam,Market C,Cashew,Whole,23/03/2025,19289,31855,20968
+Karnataka,Coimbatore,Market E,Arecanut,Bold,27/09/2024,4905,6940,5352
+Goa,Mysuru,Market E,Cardamom,Local,03/05/2024,27062,39293,37709
+Karnataka,Srinagar,Market B,Turmeric,Hybrid,31/12/2024,37463,51224,37569
+Assam,Srinagar,Market C,Apple,Fresh,21/06/2024,29221,42230,34735
+Tamil Nadu,Coimbatore,Market D,Banana,Processed,28/10/2024,46082,56473,50415
+Kerala,Kohima,Market E,Banana,Raw,17/07/2024,11328,20872,16131
+Maharashtra,Gangtok,Market E,Cashew,Rasthali,11/10/2024,7006,18340,10739
+Himachal Pradesh,Coimbatore,Market B,Banana,Raw,18/04/2025,37434,45362,42641
+Sikkim,Kamrup,Market C,Black Pepper,Whole,15/10/2024,88841,93715,89425
+Maharashtra,Kamrup,Market E,Cashew,Fresh,16/11/2024,61589,68305,63800
+Karnataka,North Goa,Market C,Cardamom,Whole,16/04/2025,5207,18896,10375
+Jammu & Kashmir,Shimla,Market A,Cashew,Hybrid,30/07/2024,95098,100753,96839
+Nagaland,Srinagar,Market D,Ginger,Red Delicious,24/05/2024,19301,23841,23716
+Himachal Pradesh,Pune,Market D,Onion,Raw,26/09/2024,48447,52540,52532
+Assam,Mysuru,Market D,Banana,Bold,14/11/2024,15371,18375,17941
+Assam,Srinagar,Market E,Banana,Raw,08/07/2024,51019,61282,58687
+Karnataka,Shimla,Market E,Cardamom,Rasthali,07/05/2024,90353,105349,99150
+Himachal Pradesh,Gangtok,Market A,Apple,Raw,27/05/2024,21730,29663,21756
+Himachal Pradesh,Mysuru,Market B,Tomato,Rasthali,31/12/2024,82959,88348,88193
+Karnataka,Pune,Market B,Ginger,Processed,07/11/2024,22174,31511,30863
+Kerala,Pune,Market C,Turmeric,Bold,08/04/2025,15662,22109,18181
+Goa,Ernakulam,Market B,Onion,Rasthali,15/04/2025,12226,24717,20188
+Tamil Nadu,Mysuru,Market B,Ginger,Premium,07/05/2024,73063,76268,74148
+Karnataka,Pune,Market D,Cashew,Local,14/02/2025,99994,112453,111296
+Goa,Shimla,Market D,Black Pepper,Premium,16/04/2025,68839,76736,69830
+Goa,North Goa,Market A,Black Pepper,Bold,24/11/2024,78110,87685,81880
+Maharashtra,North Goa,Market A,Banana,Bold,11/09/2024,31007,32611,31071
+Sikkim,Coimbatore,Market E,Cashew,Red Delicious,12/01/2025,88684,97137,92194
+Karnataka,Kamrup,Market E,Onion,Premium,14/09/2024,32850,46205,40599
+Jammu & Kashmir,North Goa,Market A,Banana,Raw,17/06/2024,47438,54877,50805
+Nagaland,Ernakulam,Market A,Cardamom,Raw,02/01/2025,96448,102507,97343
+Goa,North Goa,Market B,Tomato,Premium,07/09/2024,19373,26785,20876
+Himachal Pradesh,Kohima,Market B,Banana,Premium,11/12/2024,73132,75236,73339
+Karnataka,Ernakulam,Market A,Cashew,Fresh,13/11/2024,54269,62725,62155
+Goa,Srinagar,Market A,Ginger,Raw,19/12/2024,1282,8178,3454
+Nagaland,Shimla,Market D,Tomato,Premium,14/12/2024,21289,24900,22504
+Goa,Ernakulam,Market E,Tomato,Bold,23/01/2025,99038,104676,99506
+Kerala,Pune,Market D,Tomato,Local,03/09/2024,21635,23066,22675
+Tamil Nadu,Kamrup,Market A,Onion,Rasthali,23/10/2024,89501,104121,93354
+Jammu & Kashmir,Coimbatore,Market E,Cashew,Hybrid,16/02/2025,78924,80075,79091
+Jammu & Kashmir,Pune,Market E,Tomato,Processed,20/08/2024,35179,39025,37922
+Sikkim,North Goa,Market C,Arecanut,Fresh,13/07/2024,89039,100114,93954
+Nagaland,Gangtok,Market A,Cardamom,Premium,19/01/2025,82416,92140,84054
+Tamil Nadu,Mysuru,Market B,Tomato,Red Delicious,26/09/2024,18361,24579,18924
+Goa,Gangtok,Market C,Ginger,Premium,17/11/2024,72200,84226,77156
+Maharashtra,Mysuru,Market A,Tomato,Red Delicious,02/02/2025,87951,90148,88501
+Himachal Pradesh,Coimbatore,Market A,Tomato,Fresh,25/01/2025,36697,41813,41651
+Goa,Gangtok,Market B,Apple,Local,03/11/2024,65032,69646,65448
+Tamil Nadu,Srinagar,Market C,Cardamom,Bold,23/03/2025,44719,57853,46862
+Himachal Pradesh,Kamrup,Market D,Tomato,Raw,08/07/2024,74519,75177,74633
+Tamil Nadu,Kamrup,Market E,Cardamom,Processed,29/05/2024,77350,86902,79776
+Jammu & Kashmir,Kamrup,Market A,Apple,Processed,22/09/2024,6229,12591,7949
+Goa,Coimbatore,Market C,Tomato,Raw,09/10/2024,82351,95130,84883
+Goa,Kamrup,Market B,Arecanut,Bold,19/01/2025,24509,37076,29951
+Jammu & Kashmir,North Goa,Market C,Ginger,Rasthali,29/12/2024,51140,65929,51774
+Nagaland,North Goa,Market B,Turmeric,Processed,28/07/2024,41001,54944,54031
+Goa,North Goa,Market A,Cashew,Raw,25/04/2024,44025,49089,44593
+Himachal Pradesh,Gangtok,Market E,Arecanut,Local,24/03/2025,44404,45356,44522
+Himachal Pradesh,Kamrup,Market E,Apple,Bold,07/03/2025,15208,25482,22327
+Sikkim,Gangtok,Market D,Onion,Local,08/06/2024,16157,22968,20880
+Goa,Shimla,Market A,Arecanut,Bold,08/06/2024,69146,82859,77967
+Goa,Gangtok,Market D,Banana,Processed,30/05/2024,82678,88321,88112
+Tamil Nadu,Shimla,Market E,Apple,Raw,11/05/2024,43753,50845,49464
+Himachal Pradesh,Mysuru,Market B,Cashew,Raw,09/10/2024,88153,94864,93701
+Assam,Pune,Market E,Apple,Raw,19/08/2024,72819,86978,72825
+Himachal Pradesh,Shimla,Market B,Arecanut,Hybrid,09/07/2024,80516,91742,85795
+Nagaland,Kohima,Market D,Cashew,Local,10/09/2024,63021,76525,76063
+Assam,Coimbatore,Market C,Tomato,Hybrid,25/04/2024,44933,46963,46609
+Goa,Shimla,Market B,Cashew,Fresh,24/12/2024,4201,5458,4702
+Nagaland,Pune,Market A,Turmeric,Raw,07/07/2024,83544,93475,86729
+Jammu & Kashmir,Kohima,Market D,Cashew,Fresh,03/05/2024,86990,98756,87080
+Tamil Nadu,Srinagar,Market B,Ginger,Local,02/01/2025,61889,63211,63030
+Goa,Coimbatore,Market D,Ginger,Premium,30/06/2024,88500,97702,97657
+Maharashtra,Gangtok,Market D,Onion,Local,09/03/2025,56933,71041,65909
+Nagaland,Kamrup,Market D,Turmeric,Red Delicious,15/05/2024,99536,104086,101807
+Karnataka,Kohima,Market B,Apple,Premium,20/11/2024,11155,23345,15836
+Goa,Shimla,Market C,Black Pepper,Local,11/10/2024,11561,14328,12178
+Goa,Srinagar,Market B,Cashew,Rasthali,08/07/2024,55377,62555,58087
+Karnataka,Kohima,Market D,Cardamom,Whole,21/01/2025,56069,62950,62375
+Maharashtra,Ernakulam,Market E,Arecanut,Premium,11/12/2024,1772,8035,4218
+Jammu & Kashmir,Srinagar,Market E,Tomato,Hybrid,27/04/2024,29906,38405,33501
+Himachal Pradesh,Srinagar,Market D,Cardamom,Raw,14/01/2025,45057,56515,56184
+Jammu & Kashmir,Kamrup,Market D,Ginger,Hybrid,28/06/2024,71008,71949,71936
+Jammu & Kashmir,Pune,Market E,Cardamom,Rasthali,18/12/2024,85246,92768,86357
+Nagaland,Kamrup,Market A,Apple,Raw,23/05/2024,43906,47873,45768
+Sikkim,Gangtok,Market D,Apple,Raw,17/03/2025,34065,48244,35406
+Nagaland,Ernakulam,Market E,Cardamom,Processed,13/02/2025,30389,41540,31513
+Kerala,Ernakulam,Market B,Cashew,Bold,06/01/2025,82439,85435,83416
+Assam,Kohima,Market A,Onion,Whole,21/04/2024,61952,73912,66150
+Sikkim,Kamrup,Market E,Onion,Rasthali,08/04/2025,22465,28061,23350
+Maharashtra,Ernakulam,Market C,Onion,Raw,02/10/2024,52990,65204,56239
+Tamil Nadu,Pune,Market B,Banana,Red Delicious,18/07/2024,90687,101024,92670
+Maharashtra,Ernakulam,Market C,Tomato,Raw,19/03/2025,87706,94277,88270
+Karnataka,Gangtok,Market A,Arecanut,Premium,06/10/2024,14833,22435,17800
+Nagaland,Kamrup,Market D,Ginger,Local,26/10/2024,86256,91181,90664
+Nagaland,Kohima,Market D,Onion,Red Delicious,04/09/2024,43245,57699,47267
+Tamil Nadu,Shimla,Market D,Cashew,Premium,17/08/2024,75691,86190,81900
+Sikkim,Ernakulam,Market D,Black Pepper,Fresh,27/06/2024,64904,68879,66357
+Himachal Pradesh,Gangtok,Market C,Onion,Red Delicious,19/10/2024,73848,74514,74377
+Goa,Coimbatore,Market B,Arecanut,Premium,12/01/2025,73768,86689,77705
+Nagaland,Kohima,Market D,Cardamom,Rasthali,31/12/2024,39566,43696,42878
+Goa,Shimla,Market E,Black Pepper,Premium,26/12/2024,73544,82742,79176
+Jammu & Kashmir,Mysuru,Market C,Black Pepper,Premium,08/03/2025,36509,42032,38568
+Goa,Coimbatore,Market B,Black Pepper,Rasthali,01/01/2025,98370,107649,101403
+Goa,North Goa,Market D,Apple,Hybrid,12/04/2025,69765,80042,74401
+Tamil Nadu,North Goa,Market C,Cashew,Processed,13/10/2024,24519,29971,24634
+Karnataka,Kamrup,Market C,Cardamom,Bold,05/06/2024,73529,78815,74563
+Nagaland,Coimbatore,Market A,Onion,Red Delicious,10/06/2024,62524,70867,69740
+Sikkim,Kamrup,Market A,Apple,Premium,19/03/2025,15953,29922,17023
+Jammu & Kashmir,Kohima,Market A,Onion,Bold,04/11/2024,20887,23831,23192
+Himachal Pradesh,Coimbatore,Market B,Banana,Local,10/09/2024,55548,65981,65314
+Maharashtra,North Goa,Market E,Arecanut,Premium,05/07/2024,59028,64399,63849
+Jammu & Kashmir,Shimla,Market E,Onion,Bold,26/09/2024,80905,93530,82530
+Goa,North Goa,Market C,Banana,Fresh,28/11/2024,32439,35786,34699
+Tamil Nadu,Kamrup,Market A,Arecanut,Premium,20/12/2024,91357,101586,99056
+Himachal Pradesh,Ernakulam,Market B,Apple,Red Delicious,10/07/2024,93141,107724,100579
+Tamil Nadu,North Goa,Market C,Onion,Whole,15/11/2024,56723,59103,58953
+Goa,Kamrup,Market C,Ginger,Rasthali,26/07/2024,8816,12034,10075
+Maharashtra,Pune,Market C,Turmeric,Rasthali,19/05/2024,62433,74216,67415
+Jammu & Kashmir,Shimla,Market E,Tomato,Premium,01/11/2024,58377,60194,59601
+Kerala,Srinagar,Market C,Onion,Red Delicious,13/05/2024,4390,6386,4858
+Maharashtra,Pune,Market A,Apple,Hybrid,30/10/2024,6273,19275,18663
+Assam,Kohima,Market E,Turmeric,Red Delicious,11/04/2025,24788,34878,31929
+Nagaland,Coimbatore,Market D,Black Pepper,Raw,02/12/2024,44687,50447,50176
+Tamil Nadu,Kamrup,Market C,Arecanut,Premium,25/05/2024,38777,50132,45338
+Karnataka,Ernakulam,Market D,Banana,Processed,17/02/2025,34082,39878,35031
+Jammu & Kashmir,Mysuru,Market A,Tomato,Premium,09/02/2025,55165,56553,55549
+Karnataka,Gangtok,Market E,Turmeric,Premium,28/07/2024,7764,11599,8857
+Karnataka,Kamrup,Market C,Turmeric,Premium,30/04/2024,16915,17887,17560
+Maharashtra,North Goa,Market B,Apple,Local,03/10/2024,2792,12340,9476
+Tamil Nadu,North Goa,Market A,Turmeric,Rasthali,14/05/2024,85896,100029,88418
+Nagaland,Shimla,Market E,Apple,Raw,19/02/2025,64242,72478,68235
+Nagaland,Mysuru,Market B,Arecanut,Whole,20/07/2024,79561,88388,81797
+Tamil Nadu,Shimla,Market D,Black Pepper,Local,11/02/2025,36018,49961,36060
+Himachal Pradesh,Shimla,Market E,Onion,Premium,18/10/2024,20476,28292,24888
+Nagaland,Gangtok,Market C,Tomato,Local,25/08/2024,50441,58401,58082
+Sikkim,North Goa,Market B,Onion,Raw,01/12/2024,31613,46137,44319
+Jammu & Kashmir,Ernakulam,Market C,Turmeric,Raw,17/03/2025,51604,62977,62286
+Assam,Kohima,Market A,Ginger,Local,18/03/2025,78356,84295,79178
+Nagaland,Coimbatore,Market E,Turmeric,Bold,03/05/2024,95692,98553,97371
+Assam,Coimbatore,Market D,Apple,Processed,22/06/2024,82691,94540,89203
+Tamil Nadu,Gangtok,Market E,Arecanut,Processed,23/01/2025,83155,95430,91149
+Karnataka,Ernakulam,Market E,Banana,Whole,31/05/2024,83727,95440,88435
+Goa,Coimbatore,Market D,Banana,Rasthali,01/07/2024,59153,62378,61995
+Himachal Pradesh,Ernakulam,Market A,Black Pepper,Bold,02/03/2025,39452,45825,42522
+Jammu & Kashmir,Kamrup,Market B,Tomato,Raw,03/01/2025,75177,86847,78127
+Assam,Kamrup,Market A,Onion,Raw,03/12/2024,82226,93918,86171
+Nagaland,Pune,Market B,Cashew,Premium,10/05/2024,84611,89272,88375
+Himachal Pradesh,Ernakulam,Market D,Apple,Local,19/06/2024,21706,23416,22610
+Sikkim,Pune,Market C,Arecanut,Red Delicious,09/09/2024,60878,75227,65827
+Goa,Srinagar,Market D,Banana,Whole,17/03/2025,50986,60856,56867
+Maharashtra,Shimla,Market C,Cardamom,Raw,19/05/2024,36976,37608,37555
+Kerala,Pune,Market D,Apple,Whole,01/03/2025,80569,94207,86341
+Goa,North Goa,Market E,Apple,Fresh,15/12/2024,83345,85436,83506
+Himachal Pradesh,Kohima,Market A,Onion,Processed,28/04/2024,96991,99644,97360
+Himachal Pradesh,Gangtok,Market D,Ginger,Whole,10/01/2025,18322,31708,27159
+Sikkim,Mysuru,Market E,Apple,Fresh,11/01/2025,34681,48692,42575
+Himachal Pradesh,Gangtok,Market A,Turmeric,Rasthali,07/06/2024,19449,32305,23145
+Jammu & Kashmir,Mysuru,Market C,Banana,Raw,12/05/2024,2824,7656,7219
+Tamil Nadu,Kohima,Market C,Apple,Hybrid,02/05/2024,50941,64915,61402
+Sikkim,Coimbatore,Market B,Turmeric,Bold,04/11/2024,82205,97192,91403
+Sikkim,Pune,Market B,Banana,Premium,18/02/2025,92891,98342,98209
+Jammu & Kashmir,Coimbatore,Market B,Cardamom,Bold,20/03/2025,40893,49464,42795
+Tamil Nadu,North Goa,Market E,Ginger,Raw,16/01/2025,60459,67037,65951
+Karnataka,Srinagar,Market E,Ginger,Raw,09/01/2025,86841,88963,88845
+Maharashtra,Srinagar,Market C,Cardamom,Processed,06/02/2025,29477,37241,33119
+Goa,Gangtok,Market A,Black Pepper,Local,03/11/2024,85518,91894,86014
+Jammu & Kashmir,Shimla,Market B,Banana,Premium,10/01/2025,13015,24373,16490
+Maharashtra,Ernakulam,Market A,Black Pepper,Whole,01/12/2024,17505,30898,26755
+Goa,Coimbatore,Market E,Cashew,Hybrid,26/07/2024,29305,43126,33122
+Sikkim,Kamrup,Market E,Cardamom,Red Delicious,06/05/2024,19964,22593,22176
+Himachal Pradesh,Kamrup,Market A,Cardamom,Fresh,09/09/2024,2947,9316,4896
+Maharashtra,Gangtok,Market A,Ginger,Red Delicious,24/01/2025,7868,10444,9592
+Karnataka,Coimbatore,Market A,Turmeric,Premium,20/11/2024,48453,57361,50239
+Nagaland,Mysuru,Market B,Onion,Bold,12/12/2024,96321,109653,107116
+Karnataka,Shimla,Market D,Cardamom,Bold,09/05/2024,63781,78163,70361
+Jammu & Kashmir,Coimbatore,Market D,Turmeric,Rasthali,28/07/2024,11589,17366,16572
+Assam,Coimbatore,Market B,Apple,Hybrid,19/08/2024,83978,94068,92962
+Sikkim,Srinagar,Market E,Tomato,Red Delicious,12/04/2025,60469,69251,67517
+Tamil Nadu,Coimbatore,Market E,Cashew,Raw,20/11/2024,60186,64429,63575
+Sikkim,Kohima,Market D,Arecanut,Rasthali,27/12/2024,41966,49458,44526
+Himachal Pradesh,Gangtok,Market B,Turmeric,Rasthali,11/06/2024,12957,27084,14355
+Tamil Nadu,Srinagar,Market A,Black Pepper,Fresh,03/10/2024,73924,75406,75125
+Karnataka,Mysuru,Market C,Banana,Raw,17/02/2025,47346,62159,58246
+Jammu & Kashmir,Ernakulam,Market C,Onion,Red Delicious,09/11/2024,47090,49287,49168
+Goa,Kamrup,Market D,Cashew,Rasthali,01/10/2024,46890,61240,56003
+Sikkim,Coimbatore,Market C,Onion,Whole,06/01/2025,57244,71591,66434
+Maharashtra,Pune,Market E,Cardamom,Hybrid,07/11/2024,87223,101312,98584
+Himachal Pradesh,Ernakulam,Market B,Apple,Red Delicious,14/09/2024,45541,51792,45591
+Assam,Kamrup,Market E,Arecanut,Rasthali,21/08/2024,19595,32235,29968
+Kerala,Coimbatore,Market E,Cashew,Raw,15/01/2025,56028,63960,58820
+Assam,Gangtok,Market C,Black Pepper,Hybrid,28/12/2024,79148,81039,80957
+Kerala,Kamrup,Market B,Onion,Bold,20/09/2024,89338,91174,89895
+Nagaland,Srinagar,Market D,Onion,Premium,23/09/2024,55287,60262,57052
+Karnataka,Coimbatore,Market C,Arecanut,Rasthali,19/02/2025,38125,49736,49241
+Maharashtra,Kohima,Market E,Apple,Bold,22/08/2024,29903,36878,34812
+Kerala,Ernakulam,Market B,Apple,Whole,12/08/2024,18987,32007,23173
+Himachal Pradesh,Gangtok,Market A,Cardamom,Premium,25/01/2025,98912,106467,100351
+Assam,Srinagar,Market E,Cashew,Local,27/02/2025,74233,88386,85178
+Sikkim,Coimbatore,Market D,Cardamom,Raw,17/06/2024,3456,11488,11002
+Tamil Nadu,Gangtok,Market E,Arecanut,Hybrid,27/11/2024,54008,66132,64496
+Jammu & Kashmir,Shimla,Market A,Arecanut,Bold,01/01/2025,43568,46883,46850
+Maharashtra,Kohima,Market C,Banana,Raw,16/03/2025,14875,19361,18444
+Maharashtra,Srinagar,Market E,Banana,Raw,09/08/2024,41668,54387,47230
+Goa,Gangtok,Market B,Banana,Local,22/01/2025,83998,86366,86171
+Karnataka,North Goa,Market C,Black Pepper,Fresh,22/06/2024,31968,34152,32567
+Himachal Pradesh,North Goa,Market B,Onion,Fresh,07/02/2025,86918,88652,87280
+Nagaland,Kohima,Market E,Onion,Premium,10/09/2024,90277,105228,99525
+Maharashtra,Gangtok,Market C,Ginger,Premium,23/03/2025,9950,18132,13572
+Himachal Pradesh,Shimla,Market E,Cardamom,Processed,05/06/2024,67497,69212,68132
+Nagaland,Kohima,Market A,Cardamom,Processed,17/11/2024,38627,40384,39947
+Tamil Nadu,Pune,Market E,Tomato,Raw,18/03/2025,61648,71656,70729
+Kerala,Kohima,Market E,Cashew,Processed,01/10/2024,80299,88591,88513
+Assam,Ernakulam,Market D,Banana,Processed,09/01/2025,94626,96507,95659
+Assam,Ernakulam,Market B,Turmeric,Premium,03/04/2025,69690,78754,72290
+Sikkim,Gangtok,Market C,Arecanut,Raw,27/12/2024,45350,56973,55145
+Kerala,Gangtok,Market A,Black Pepper,Rasthali,29/01/2025,74133,85747,80466
+Himachal Pradesh,Shimla,Market E,Ginger,Processed,13/08/2024,11682,21729,13999
+Sikkim,Shimla,Market D,Ginger,Hybrid,04/09/2024,93908,95796,94542
+Karnataka,Srinagar,Market C,Ginger,Local,23/03/2025,13249,24333,24233
+Jammu & Kashmir,Mysuru,Market C,Cardamom,Processed,15/01/2025,41483,44936,42360
+Sikkim,Kohima,Market B,Cashew,Fresh,05/09/2024,21308,23072,21913
+Tamil Nadu,Mysuru,Market E,Tomato,Bold,21/07/2024,87760,93777,92822
+Assam,Pune,Market D,Ginger,Fresh,03/08/2024,24703,38823,36054
+Maharashtra,Kamrup,Market D,Cardamom,Raw,24/01/2025,48749,60330,52640
+Nagaland,Pune,Market C,Turmeric,Whole,12/12/2024,70993,75411,73528
+Nagaland,North Goa,Market C,Onion,Premium,04/01/2025,61513,74619,66129
+Jammu & Kashmir,Mysuru,Market E,Arecanut,Fresh,03/06/2024,27174,40801,37080
+Assam,Shimla,Market A,Turmeric,Processed,31/12/2024,73684,75864,75797
+Tamil Nadu,Shimla,Market A,Ginger,Red Delicious,27/10/2024,59893,68803,62307
+Jammu & Kashmir,Coimbatore,Market B,Turmeric,Processed,07/11/2024,4495,11792,4931
+Jammu & Kashmir,Mysuru,Market C,Cashew,Raw,22/02/2025,11696,18338,13535
+Kerala,Gangtok,Market A,Black Pepper,Fresh,29/06/2024,19035,20162,19622
+Nagaland,Kamrup,Market D,Turmeric,Hybrid,10/02/2025,1688,3486,1726
+Himachal Pradesh,North Goa,Market B,Tomato,Hybrid,02/09/2024,70176,77610,71086
+Himachal Pradesh,North Goa,Market C,Banana,Bold,25/07/2024,32252,39630,37486
+Maharashtra,Kohima,Market A,Banana,Premium,15/11/2024,79215,88497,79484
+Karnataka,Pune,Market B,Ginger,Red Delicious,11/08/2024,57261,57786,57622
+Goa,Pune,Market D,Ginger,Rasthali,01/08/2024,69614,76022,70168
+Karnataka,Mysuru,Market E,Tomato,Local,10/12/2024,3665,10562,7516
+Kerala,Srinagar,Market C,Apple,Bold,06/05/2024,47805,61224,48911
+Sikkim,North Goa,Market A,Onion,Processed,26/03/2025,18486,19712,19207
+Karnataka,Gangtok,Market B,Turmeric,Premium,10/11/2024,83802,87288,87125
+Assam,Coimbatore,Market D,Cardamom,Red Delicious,18/04/2025,27422,28639,27830
+Kerala,Gangtok,Market C,Tomato,Raw,10/01/2025,72176,80432,76326
+Kerala,North Goa,Market C,Black Pepper,Bold,05/04/2025,86948,92886,89186
+Tamil Nadu,Gangtok,Market D,Arecanut,Premium,07/12/2024,51678,57732,53208
+Nagaland,Kohima,Market C,Tomato,Red Delicious,17/02/2025,11828,24240,18783
+Tamil Nadu,Srinagar,Market E,Ginger,Local,05/12/2024,39504,45266,40344
+Tamil Nadu,Gangtok,Market C,Apple,Premium,13/04/2025,79986,92244,86967
+Assam,Kohima,Market C,Turmeric,Bold,27/06/2024,96265,111019,102041
+Maharashtra,Srinagar,Market C,Cardamom,Rasthali,26/04/2024,88973,99918,95628
+Sikkim,Mysuru,Market B,Cardamom,Fresh,09/05/2024,80635,92244,87814
+Kerala,Kamrup,Market A,Cashew,Processed,03/12/2024,48467,55239,53113
+Kerala,Pune,Market B,Turmeric,Processed,10/02/2025,49760,57533,56011
+Tamil Nadu,Pune,Market B,Tomato,Processed,29/08/2024,53171,58821,58492
+Himachal Pradesh,North Goa,Market A,Cardamom,Fresh,14/07/2024,66410,75392,72750
+Karnataka,Coimbatore,Market C,Apple,Premium,06/12/2024,29124,39648,33802
+Nagaland,North Goa,Market A,Ginger,Rasthali,06/10/2024,60250,63578,63171
+Nagaland,Coimbatore,Market C,Black Pepper,Rasthali,13/05/2024,73089,82471,77846
+Himachal Pradesh,Kamrup,Market B,Black Pepper,Local,13/09/2024,30391,32879,31214
+Assam,North Goa,Market D,Cardamom,Processed,24/03/2025,73616,83492,79660
+Nagaland,Mysuru,Market B,Onion,Rasthali,31/10/2024,9617,15184,12878
+Nagaland,Mysuru,Market D,Arecanut,Hybrid,28/08/2024,10666,13219,11964
+Tamil Nadu,Kohima,Market D,Tomato,Processed,14/12/2024,17821,32705,31404
+Karnataka,Pune,Market B,Ginger,Raw,14/11/2024,66911,81635,67818
+Tamil Nadu,Mysuru,Market B,Apple,Fresh,07/05/2024,22229,28015,24076
+Sikkim,Mysuru,Market C,Banana,Red Delicious,08/03/2025,26729,37633,35753
+Himachal Pradesh,Kamrup,Market C,Onion,Local,10/12/2024,13245,21979,16007
+Maharashtra,Pune,Market B,Ginger,Hybrid,20/11/2024,95454,105868,100985
+Maharashtra,Ernakulam,Market A,Banana,Bold,07/07/2024,85076,98208,94525
+Himachal Pradesh,North Goa,Market E,Arecanut,Hybrid,17/12/2024,84753,85749,85262
+Karnataka,Shimla,Market C,Turmeric,Whole,20/12/2024,90783,97936,93219
+Nagaland,Coimbatore,Market A,Ginger,Premium,30/05/2024,55476,63909,63085
+Goa,Gangtok,Market E,Ginger,Processed,05/01/2025,95157,100888,97986
+Jammu & Kashmir,Kamrup,Market C,Tomato,Local,24/02/2025,14917,20645,16897
+Nagaland,Coimbatore,Market C,Turmeric,Whole,05/07/2024,19465,21551,19672
+Himachal Pradesh,Srinagar,Market E,Arecanut,Whole,15/04/2025,21932,35760,27296
+Maharashtra,Gangtok,Market B,Ginger,Premium,30/06/2024,68466,76614,72551
+Himachal Pradesh,Kohima,Market A,Banana,Raw,14/06/2024,67249,75240,75168
+Goa,North Goa,Market E,Black Pepper,Bold,02/11/2024,7624,12733,11678
+Maharashtra,Kohima,Market C,Tomato,Bold,10/10/2024,15089,22649,16186
+Himachal Pradesh,Gangtok,Market D,Black Pepper,Bold,17/03/2025,53505,54843,54672
+Karnataka,North Goa,Market C,Tomato,Red Delicious,15/05/2024,10637,17466,14767
+Nagaland,Mysuru,Market C,Onion,Hybrid,28/10/2024,16572,19180,16968
+Jammu & Kashmir,Gangtok,Market C,Tomato,Processed,17/03/2025,99954,102817,100769
+Maharashtra,Mysuru,Market D,Tomato,Bold,23/09/2024,6938,8075,7218
+Sikkim,Kohima,Market E,Turmeric,Fresh,04/07/2024,80463,89409,82753
+Sikkim,Pune,Market C,Ginger,Raw,30/08/2024,81805,94418,86707
+Maharashtra,Gangtok,Market E,Tomato,Local,08/09/2024,65205,77316,74427
+Himachal Pradesh,Kohima,Market A,Black Pepper,Processed,29/10/2024,89317,91612,91023
+Maharashtra,Shimla,Market A,Onion,Premium,14/06/2024,35803,47044,45280
+Maharashtra,North Goa,Market A,Onion,Premium,06/03/2025,23349,32438,29578
+Assam,North Goa,Market A,Onion,Rasthali,16/11/2024,26006,26816,26457
+Sikkim,Srinagar,Market B,Arecanut,Whole,19/10/2024,54788,63509,62514
+Kerala,Kamrup,Market E,Cashew,Local,17/05/2024,43604,54953,51441
+Karnataka,Srinagar,Market C,Ginger,Premium,26/05/2024,70878,76986,75353
+Sikkim,Shimla,Market E,Turmeric,Whole,13/11/2024,33311,38382,37882
+Himachal Pradesh,North Goa,Market C,Apple,Whole,17/11/2024,91471,103521,99482
+Sikkim,Kohima,Market C,Tomato,Red Delicious,12/01/2025,38721,41217,41069
+Karnataka,Srinagar,Market D,Black Pepper,Fresh,11/04/2025,39070,40259,39659
+Tamil Nadu,Gangtok,Market D,Apple,Premium,15/08/2024,29047,32857,32438
+Karnataka,Shimla,Market E,Apple,Fresh,20/06/2024,15316,25903,24930
+Goa,North Goa,Market A,Tomato,Whole,26/01/2025,84616,88930,85046
+Tamil Nadu,Srinagar,Market C,Turmeric,Rasthali,06/12/2024,90285,103413,92537
+Kerala,Mysuru,Market B,Arecanut,Premium,15/12/2024,63580,74738,66847
+Himachal Pradesh,Gangtok,Market C,Cardamom,Rasthali,08/01/2025,86498,96404,90302
+Karnataka,Ernakulam,Market B,Arecanut,Fresh,07/06/2024,5763,19963,12267
+Nagaland,Kamrup,Market C,Cardamom,Bold,15/05/2024,40110,49915,41868
+Sikkim,Shimla,Market D,Tomato,Local,01/12/2024,65738,68436,67803
+Nagaland,Shimla,Market B,Banana,Processed,07/09/2024,22298,34776,29816
+Himachal Pradesh,Kamrup,Market A,Black Pepper,Red Delicious,27/01/2025,75420,86969,78584
+Assam,Pune,Market D,Arecanut,Local,22/02/2025,43982,45903,44802
+Tamil Nadu,Kamrup,Market B,Turmeric,Processed,23/09/2024,33512,34123,33779
+Jammu & Kashmir,North Goa,Market D,Apple,Processed,28/05/2024,40576,50619,49962
+Kerala,Shimla,Market C,Cashew,Bold,01/11/2024,88528,90964,90434
+Himachal Pradesh,Kamrup,Market D,Tomato,Red Delicious,24/10/2024,91477,93900,92685
+Sikkim,Pune,Market B,Cashew,Fresh,22/11/2024,63676,66685,65539
+Maharashtra,Gangtok,Market D,Tomato,Premium,27/08/2024,71453,85092,82333
+Goa,North Goa,Market E,Banana,Local,28/04/2024,59556,68709,65483
+Tamil Nadu,Pune,Market A,Cardamom,Local,03/07/2024,67255,71067,69600
+Karnataka,Kamrup,Market B,Black Pepper,Local,28/05/2024,58912,61316,59753
+Maharashtra,Kohima,Market A,Tomato,Premium,14/07/2024,8292,16221,9372
+Karnataka,Srinagar,Market D,Onion,Bold,31/12/2024,74242,82317,79753
+Himachal Pradesh,Ernakulam,Market D,Apple,Bold,14/02/2025,98754,102824,101122
+Tamil Nadu,Ernakulam,Market D,Black Pepper,Rasthali,16/02/2025,71931,73418,72072
+Nagaland,Ernakulam,Market C,Arecanut,Fresh,12/10/2024,18750,31797,29260
+Jammu & Kashmir,Gangtok,Market D,Turmeric,Raw,12/04/2025,50236,52050,51634
+Karnataka,Kamrup,Market C,Banana,Fresh,25/02/2025,71419,78358,75751
+Assam,North Goa,Market A,Cardamom,Red Delicious,01/06/2024,61686,73220,70606
+Jammu & Kashmir,Mysuru,Market D,Cashew,Whole,05/11/2024,61375,67546,62645
+Himachal Pradesh,North Goa,Market A,Cardamom,Raw,06/02/2025,81599,94650,81855
+Goa,North Goa,Market A,Banana,Hybrid,27/10/2024,5400,13214,10297
+Kerala,North Goa,Market A,Arecanut,Premium,19/10/2024,31715,41058,35274
+Kerala,Kamrup,Market E,Apple,Whole,24/09/2024,96881,106819,102105
+Maharashtra,Pune,Market C,Cashew,Red Delicious,17/02/2025,19777,31093,28317
+Goa,Srinagar,Market C,Apple,Bold,27/03/2025,73970,84163,76839
+Jammu & Kashmir,Mysuru,Market D,Cardamom,Processed,23/12/2024,85320,96819,91564
+Karnataka,Gangtok,Market D,Arecanut,Fresh,28/11/2024,40306,46973,41812
+Karnataka,Kohima,Market B,Cashew,Red Delicious,28/01/2025,93743,96608,95639
+Kerala,Mysuru,Market D,Arecanut,Local,20/11/2024,70467,73163,72057
+Goa,Shimla,Market B,Black Pepper,Rasthali,24/10/2024,59954,74333,66033
+Tamil Nadu,Mysuru,Market B,Cardamom,Red Delicious,28/12/2024,50436,61973,60347
+Maharashtra,Ernakulam,Market A,Cashew,Hybrid,31/03/2025,95936,107437,105092
+Goa,Kohima,Market B,Black Pepper,Red Delicious,03/08/2024,3009,6979,6847
+Goa,Coimbatore,Market D,Cashew,Hybrid,05/08/2024,93244,97094,94868
+Goa,Mysuru,Market C,Apple,Raw,16/12/2024,62112,71355,67998
+Himachal Pradesh,Shimla,Market C,Tomato,Premium,20/07/2024,62080,64195,64003
+Sikkim,North Goa,Market C,Black Pepper,Raw,08/09/2024,6992,16708,10617
+Assam,Ernakulam,Market C,Tomato,Hybrid,23/05/2024,76909,89205,83750
+Himachal Pradesh,Kamrup,Market B,Black Pepper,Whole,28/03/2025,50786,60621,54812
+Nagaland,Mysuru,Market C,Apple,Premium,29/03/2025,95838,106851,103875
+Nagaland,Kamrup,Market C,Ginger,Fresh,10/08/2024,95412,104866,103412
+Assam,Mysuru,Market A,Tomato,Bold,03/01/2025,10742,24644,21690
+Kerala,Ernakulam,Market D,Ginger,Whole,15/01/2025,9908,21994,12382
+Kerala,North Goa,Market E,Turmeric,Processed,20/10/2024,8923,19545,19371
+Maharashtra,Kohima,Market D,Cardamom,Bold,08/06/2024,70758,80296,77497
+Kerala,Ernakulam,Market E,Apple,Local,23/01/2025,38576,39356,39090
+Jammu & Kashmir,Kamrup,Market A,Banana,Local,29/10/2024,20516,24964,22088
+Maharashtra,Mysuru,Market C,Black Pepper,Red Delicious,16/01/2025,53022,54816,53786
+Jammu & Kashmir,Kohima,Market E,Cashew,Whole,15/03/2025,40318,52025,41638
+Kerala,Coimbatore,Market D,Arecanut,Raw,03/12/2024,73443,81741,74362
+Kerala,Kamrup,Market A,Turmeric,Raw,09/09/2024,85529,98880,90956
+Maharashtra,Coimbatore,Market E,Cardamom,Whole,27/03/2025,28710,43433,40052
+Maharashtra,Kohima,Market C,Cardamom,Rasthali,19/08/2024,90709,95802,95157
+Maharashtra,Ernakulam,Market B,Black Pepper,Bold,11/04/2025,28152,38269,30514
+Jammu & Kashmir,Coimbatore,Market C,Ginger,Hybrid,20/10/2024,32519,42303,38894
+Karnataka,Gangtok,Market D,Ginger,Rasthali,30/12/2024,66639,79352,72305
+Kerala,Coimbatore,Market D,Cashew,Rasthali,12/12/2024,45642,56057,55699
+Maharashtra,Srinagar,Market C,Cardamom,Red Delicious,08/03/2025,60054,68592,63791
+Sikkim,Mysuru,Market D,Arecanut,Fresh,30/08/2024,90088,100186,96315
+Tamil Nadu,Pune,Market C,Cashew,Rasthali,13/02/2025,11752,16642,13015
+Jammu & Kashmir,Kamrup,Market D,Black Pepper,Processed,01/08/2024,14965,16964,14975
+Himachal Pradesh,Kohima,Market C,Apple,Rasthali,30/01/2025,18367,20297,18750
+Jammu & Kashmir,Kohima,Market E,Tomato,Local,19/02/2025,54483,56675,54590
+Tamil Nadu,Gangtok,Market E,Banana,Hybrid,03/07/2024,79386,92738,84701
+Jammu & Kashmir,Ernakulam,Market C,Arecanut,Raw,07/03/2025,12101,24476,21268
+Goa,Pune,Market E,Ginger,Raw,28/02/2025,23216,25990,24317
+Himachal Pradesh,Shimla,Market D,Ginger,Rasthali,25/08/2024,22916,30537,25176
+Jammu & Kashmir,Shimla,Market D,Banana,Processed,25/12/2024,33990,38530,38051
+Maharashtra,Pune,Market B,Turmeric,Rasthali,15/09/2024,18758,24249,18813
+Jammu & Kashmir,Gangtok,Market E,Arecanut,Processed,23/10/2024,58700,64684,62227
+Maharashtra,Kamrup,Market C,Black Pepper,Hybrid,11/05/2024,92133,95923,94095
+Sikkim,Kamrup,Market D,Black Pepper,Red Delicious,17/08/2024,97321,109207,107690
+Nagaland,Pune,Market B,Black Pepper,Raw,25/05/2024,37739,51616,50614
+Jammu & Kashmir,Gangtok,Market A,Onion,Whole,04/05/2024,78624,88063,81571
+Karnataka,Ernakulam,Market D,Cashew,Premium,21/10/2024,39185,53304,50536
+Tamil Nadu,Srinagar,Market D,Ginger,Red Delicious,09/08/2024,32722,37361,33984
+Jammu & Kashmir,Srinagar,Market A,Turmeric,Hybrid,21/11/2024,63814,73853,70380
+Karnataka,Mysuru,Market D,Tomato,Bold,23/01/2025,48124,60119,56920
+Maharashtra,Coimbatore,Market A,Cashew,Processed,25/03/2025,22802,33902,32840
+Kerala,Pune,Market D,Black Pepper,Raw,14/11/2024,14886,15558,14986
+Himachal Pradesh,North Goa,Market E,Tomato,Local,10/12/2024,77089,88855,86513
+Goa,Kohima,Market C,Arecanut,Premium,27/10/2024,90070,100213,98269
+Assam,Gangtok,Market A,Turmeric,Rasthali,19/05/2024,39722,47037,40425
+Tamil Nadu,Kamrup,Market C,Apple,Processed,13/10/2024,60681,74030,64070
+Karnataka,Kohima,Market C,Turmeric,Rasthali,19/03/2025,58431,70760,69846
+Nagaland,Gangtok,Market A,Apple,Bold,05/11/2024,94163,96548,94255
+Sikkim,Coimbatore,Market B,Cashew,Local,21/02/2025,23865,33407,26488
+Sikkim,Mysuru,Market D,Turmeric,Whole,17/10/2024,54090,64907,57112
+Assam,Srinagar,Market D,Cardamom,Hybrid,05/08/2024,26863,34728,31714
+Jammu & Kashmir,Srinagar,Market A,Cashew,Whole,22/01/2025,37483,50309,49013
+Tamil Nadu,Pune,Market A,Tomato,Fresh,17/04/2025,48945,54785,50559
+Nagaland,Coimbatore,Market C,Turmeric,Local,31/10/2024,84769,90403,89659
+Jammu & Kashmir,Pune,Market D,Onion,Rasthali,26/01/2025,46603,52869,50353
+Maharashtra,Kamrup,Market C,Onion,Hybrid,12/01/2025,12108,23619,14302
+Sikkim,Coimbatore,Market B,Apple,Rasthali,18/12/2024,24992,31608,30672
+Assam,Mysuru,Market D,Arecanut,Hybrid,23/02/2025,19070,28987,25356
+Jammu & Kashmir,Kamrup,Market D,Tomato,Fresh,07/01/2025,73733,76966,75738
+Himachal Pradesh,Kamrup,Market B,Black Pepper,Premium,08/01/2025,82187,83565,82922
+Kerala,Kohima,Market B,Cashew,Raw,28/02/2025,74607,83388,82716
+Jammu & Kashmir,Kohima,Market D,Turmeric,Premium,04/12/2024,22922,24776,24079
+Kerala,North Goa,Market C,Cardamom,Red Delicious,13/07/2024,30470,39778,35199
+Assam,Kohima,Market E,Turmeric,Local,28/08/2024,67952,70306,70297
+Tamil Nadu,Shimla,Market E,Black Pepper,Local,08/12/2024,6453,19404,18232
+Nagaland,Mysuru,Market B,Arecanut,Rasthali,07/05/2024,97467,111566,108176
+Goa,Shimla,Market A,Turmeric,Red Delicious,23/12/2024,46688,61314,60069
+Tamil Nadu,Kohima,Market A,Cashew,Whole,30/08/2024,97680,107812,103424
+Maharashtra,Srinagar,Market B,Onion,Fresh,20/05/2024,28082,41910,31472
+Kerala,Pune,Market C,Tomato,Red Delicious,13/11/2024,79231,88558,81989
+Sikkim,Shimla,Market C,Onion,Red Delicious,21/10/2024,68425,80054,69985
+Assam,Srinagar,Market A,Apple,Fresh,21/11/2024,92937,107626,95111
+Goa,Kamrup,Market C,Cashew,Raw,20/01/2025,65154,67983,67519
+Himachal Pradesh,Srinagar,Market D,Turmeric,Rasthali,08/06/2024,84050,97568,96647
+Tamil Nadu,Srinagar,Market E,Apple,Processed,15/12/2024,60597,69093,65959
+Maharashtra,Ernakulam,Market A,Turmeric,Processed,30/10/2024,9300,22836,18056
+Jammu & Kashmir,North Goa,Market D,Cashew,Premium,14/03/2025,36197,41986,38520
+Sikkim,Mysuru,Market E,Ginger,Hybrid,31/01/2025,64614,78029,70245
+Kerala,Ernakulam,Market A,Turmeric,Bold,03/09/2024,17284,31835,19872
+Nagaland,Kohima,Market A,Arecanut,Whole,14/03/2025,91255,93916,92491
+Assam,Shimla,Market A,Black Pepper,Red Delicious,25/07/2024,11803,18395,17246
+Assam,Ernakulam,Market D,Apple,Whole,11/05/2024,57260,68499,58754
+Tamil Nadu,Ernakulam,Market B,Turmeric,Rasthali,31/01/2025,18393,28619,22098
+Karnataka,Kohima,Market A,Cardamom,Processed,12/02/2025,16806,31401,23725
+Assam,Kohima,Market A,Cashew,Raw,30/03/2025,12708,25180,14386
+Tamil Nadu,Gangtok,Market C,Apple,Fresh,27/05/2024,51164,64336,63503
+Assam,Kamrup,Market A,Tomato,Hybrid,01/09/2024,2110,12609,4798
+Nagaland,Gangtok,Market B,Ginger,Raw,19/02/2025,81750,93498,88998
+Goa,Coimbatore,Market A,Ginger,Rasthali,23/11/2024,78276,90736,84567
+Sikkim,Srinagar,Market C,Ginger,Whole,06/04/2025,37302,48363,38682
+Goa,Mysuru,Market E,Onion,Hybrid,02/10/2024,38345,51607,49657
+Kerala,Shimla,Market B,Tomato,Hybrid,18/08/2024,67784,71374,70847
+Jammu & Kashmir,Shimla,Market A,Cashew,Premium,18/08/2024,51578,53925,52565
+Nagaland,Pune,Market A,Tomato,Bold,10/09/2024,48329,54014,49410
+Jammu & Kashmir,Pune,Market D,Black Pepper,Local,23/05/2024,90514,93844,93638
+Nagaland,Coimbatore,Market A,Onion,Rasthali,14/05/2024,2807,7602,4574
+Kerala,Ernakulam,Market D,Tomato,Red Delicious,13/11/2024,83388,95563,91597
+Jammu & Kashmir,Srinagar,Market D,Banana,Local,07/11/2024,71471,82064,73972
+Himachal Pradesh,Coimbatore,Market C,Banana,Local,05/02/2025,27633,41372,30178
+Karnataka,Gangtok,Market D,Onion,Rasthali,16/05/2024,41654,53601,48821
+Goa,Ernakulam,Market B,Banana,Raw,19/06/2024,16202,24130,21217
+Maharashtra,Ernakulam,Market C,Ginger,Rasthali,10/03/2025,2660,14758,4908
+Kerala,Kamrup,Market D,Black Pepper,Local,23/09/2024,68793,82121,80602
+Himachal Pradesh,Kamrup,Market C,Ginger,Red Delicious,26/11/2024,97067,99501,97187
+Sikkim,Srinagar,Market C,Tomato,Rasthali,27/01/2025,35465,47635,44912
+Tamil Nadu,Kohima,Market D,Tomato,Processed,14/07/2024,8266,16951,11000
+Sikkim,Kamrup,Market C,Banana,Hybrid,29/05/2024,89358,101700,91247
+Goa,Mysuru,Market A,Cardamom,Bold,08/10/2024,33053,34306,34019
+Sikkim,Srinagar,Market B,Ginger,Bold,04/01/2025,73465,87123,85163
+Jammu & Kashmir,North Goa,Market C,Cashew,Raw,03/07/2024,95409,101150,97631
+Tamil Nadu,Pune,Market C,Banana,Local,10/02/2025,89254,90616,89621
+Goa,Mysuru,Market A,Arecanut,Rasthali,16/10/2024,61960,76649,66585
+Himachal Pradesh,Gangtok,Market A,Tomato,Premium,09/10/2024,2044,8588,3687
+Himachal Pradesh,Pune,Market C,Onion,Whole,28/06/2024,61807,68340,66654
+Nagaland,North Goa,Market E,Cashew,Fresh,12/12/2024,1835,9053,2030
+Goa,Mysuru,Market C,Cardamom,Processed,27/09/2024,1191,14125,11960
+Jammu & Kashmir,Shimla,Market A,Cashew,Local,24/01/2025,32217,39595,36247
+Kerala,Kamrup,Market C,Banana,Bold,21/12/2024,31339,45691,39854
+Jammu & Kashmir,Gangtok,Market D,Banana,Hybrid,21/10/2024,13527,22307,15714
+Jammu & Kashmir,Coimbatore,Market E,Onion,Bold,24/03/2025,58014,69367,60155
+Goa,Shimla,Market C,Black Pepper,Raw,11/08/2024,92845,106974,104893
+Sikkim,Gangtok,Market D,Apple,Whole,04/01/2025,10789,14610,11346
+Maharashtra,Coimbatore,Market B,Banana,Fresh,29/05/2024,59925,68060,62497
+Jammu & Kashmir,Coimbatore,Market E,Black Pepper,Whole,31/07/2024,60233,65784,64028
+Himachal Pradesh,Coimbatore,Market A,Ginger,Red Delicious,08/12/2024,93367,105284,103251
+Kerala,North Goa,Market C,Ginger,Rasthali,10/04/2025,94212,98778,97126
+Jammu & Kashmir,Mysuru,Market A,Apple,Red Delicious,25/05/2024,23789,24798,24763
+Jammu & Kashmir,Kohima,Market E,Tomato,Whole,31/03/2025,13415,21485,14249
+Assam,Coimbatore,Market A,Cardamom,Whole,02/02/2025,18133,21879,21506
+Jammu & Kashmir,Gangtok,Market A,Onion,Hybrid,15/06/2024,34924,48740,36152
+Kerala,Coimbatore,Market B,Turmeric,Fresh,20/04/2025,13055,27436,26643
+Sikkim,Coimbatore,Market A,Turmeric,Bold,18/07/2024,23018,32920,30114
+Jammu & Kashmir,Kohima,Market A,Arecanut,Raw,16/12/2024,23650,29949,25408
+Assam,Shimla,Market C,Turmeric,Fresh,03/01/2025,5541,16102,15685
+Maharashtra,North Goa,Market C,Turmeric,Raw,07/01/2025,73179,81527,74178
+Tamil Nadu,Shimla,Market D,Ginger,Raw,22/07/2024,27143,38172,35757
+Goa,Mysuru,Market A,Arecanut,Processed,05/02/2025,63873,73294,71813
+Sikkim,Pune,Market E,Black Pepper,Raw,08/02/2025,36446,39892,36552
+Sikkim,Pune,Market B,Cardamom,Red Delicious,08/06/2024,8679,22427,16407
+Karnataka,Gangtok,Market E,Cashew,Fresh,10/10/2024,14124,18684,16099
+Himachal Pradesh,Mysuru,Market A,Cashew,Hybrid,25/05/2024,51911,58224,53334
+Assam,North Goa,Market E,Black Pepper,Processed,27/07/2024,78537,79499,79257
+Sikkim,Pune,Market E,Ginger,Hybrid,20/07/2024,25672,39880,38949
+Nagaland,Mysuru,Market C,Ginger,Premium,10/09/2024,5975,7953,6090
+Goa,Pune,Market B,Cardamom,Local,26/08/2024,63650,64161,63989
+Maharashtra,North Goa,Market B,Black Pepper,Fresh,11/11/2024,43413,44888,43457
+Assam,Pune,Market B,Banana,Local,13/10/2024,48826,50514,49591
+Jammu & Kashmir,Pune,Market A,Black Pepper,Red Delicious,24/01/2025,43284,46019,43929
+Jammu & Kashmir,Kohima,Market C,Ginger,Local,05/05/2024,91906,102461,97752
